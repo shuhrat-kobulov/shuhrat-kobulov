@@ -4,8 +4,8 @@
 
 # About Me
 
-- I’m currently learning: React best practices.
-- What I want to learn next: Improving my React game with [Epic React](https://epicreact.dev/).
+- I’m currently learning: React best practices and Advanced React Patterns.
+- What I want to learn next: Improving my programming game with Design Patterns and Data Structures.
 - How to reach me: `shukhratbekqobulov@gmail.com`
 - Pronouns: he/his
 
