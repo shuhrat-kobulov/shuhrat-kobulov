@@ -4,6 +4,7 @@
 
 # About Me
 
+- Check out my [resume](https://gist.github.com/mrshuhrat/df0a1296df91d338eff692b736d94c97).
 - I’m currently learning: React best practices and Advanced React Patterns.
 - What I want to learn next: Improving my programming skills with Design Patterns and Data Structures.
 - How to reach me: `shukhratbekqobulov@gmail.com`
