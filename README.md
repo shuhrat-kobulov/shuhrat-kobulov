@@ -1,4 +1,5 @@
-I'm Shukhratbek. I'm a software engineer at [Abutech](https://abutech.uz). I love writing and teaching code, mostly in JavaScript.
+### Hi there 👋
+I'm a Software Engineer at [Abutech](https://abutech.uz). I love writing and teaching code, mostly in JavaScript.
 
 ### About Me
 - Check out my [blog](https://t.me/s/shuhratbeks_blog)
