@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Software Engineer at [UzAssystem](https://uzassystem.uz). I love writing and teaching code, mostly in JavaScript.
+I'm a Software Engineer at [Assystem](https://assystem.com). I love writing and teaching code, mostly in JavaScript.
 
 ### About Me
 - Check out my [blog](https://t.me/s/shuhratbeks_blog)
