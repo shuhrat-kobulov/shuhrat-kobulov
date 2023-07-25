@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm a Software Engineer. I love writing and teaching code, mostly in JavaScript, TypeScript and Golang.
+I'm a Software Engineer. I love writing and teaching code, mostly in JavaScript, TypeScript and Python.
 
 ### About Me
-- Check out my [telegram channel](https://t.me/s/shuhratbeks_blog)
+- Check out my [telegram channel](https://t.me/s/shuhrats_blog)
 - Continuously improve my skills and knowledge in software development
 - Build innovative and impactful applications that solve real-world problems
 - Contribute to open source projects and give back to the community
